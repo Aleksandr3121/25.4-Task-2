@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/teach programm skillbox/25.4/Task 2/include/cpu.h
+ram.h
+D:/teach programm skillbox/25.4/Task 2/include/ram.h
+
+D:/teach programm skillbox/25.4/Task 2/include/disk.h
+ram.h
+D:/teach programm skillbox/25.4/Task 2/include/ram.h
+
+D:/teach programm skillbox/25.4/Task 2/include/gpu.h
+ram.h
+D:/teach programm skillbox/25.4/Task 2/include/ram.h
+iostream
+-
+
+D:/teach programm skillbox/25.4/Task 2/include/kbd.h
+ram.h
+D:/teach programm skillbox/25.4/Task 2/include/ram.h
+
+D:/teach programm skillbox/25.4/Task 2/include/ram.h
+iostream
+-
+
+D:/teach programm skillbox/25.4/Task 2/main.cpp
+iostream
+-
+string
+-
+include/ram.h
+D:/teach programm skillbox/25.4/Task 2/include/ram.h
+include/cpu.h
+D:/teach programm skillbox/25.4/Task 2/include/cpu.h
+include/disk.h
+D:/teach programm skillbox/25.4/Task 2/include/disk.h
+include/gpu.h
+D:/teach programm skillbox/25.4/Task 2/include/gpu.h
+include/kbd.h
+D:/teach programm skillbox/25.4/Task 2/include/kbd.h
+
